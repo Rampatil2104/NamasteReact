@@ -1,0 +1,35 @@
+{
+  "name": "namaste-javascript",
+  "version": "1.0.0",
+  "description": "This is namaste React ",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rampatil2104/NamasteReact.git"
+  },
+  "keywords": [],
+  "author": "Ram Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rampatil2104/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/Rampatil2104/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.10.2",
+    "postcss": "^8.4.33",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.1"
+  },
+  "browserslist": [
+    "last 2 version"
+  ]
+}
